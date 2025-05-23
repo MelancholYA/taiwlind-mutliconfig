@@ -1,0 +1,7 @@
+@config '../../../tailwind.new.config.ts';
+
+.new {
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+}
